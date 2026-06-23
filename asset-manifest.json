@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FARTLeague/static/css/main.157b4b35.css",
-    "main.js": "/FARTLeague/static/js/main.48bb9944.js",
+    "main.js": "/FARTLeague/static/js/main.f562e2df.js",
     "index.html": "/FARTLeague/index.html",
     "main.157b4b35.css.map": "/FARTLeague/static/css/main.157b4b35.css.map",
-    "main.48bb9944.js.map": "/FARTLeague/static/js/main.48bb9944.js.map"
+    "main.f562e2df.js.map": "/FARTLeague/static/js/main.f562e2df.js.map"
   },
   "entrypoints": [
     "static/css/main.157b4b35.css",
-    "static/js/main.48bb9944.js"
+    "static/js/main.f562e2df.js"
   ]
 }
